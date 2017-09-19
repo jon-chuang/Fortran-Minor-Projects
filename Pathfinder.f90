@@ -1,5 +1,5 @@
 ! This is a program which generates a grid with random obstacles based on user specified dimensions
-! difficulty parameter and then finds all paths from the chosen start point to the chosen end point.
+! and a difficulty parameter and then finds all paths from the chosen start point to the chosen end point.
 
 ! Ideas -
 ! 1. More intricate structure obstacles:
